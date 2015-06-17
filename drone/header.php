@@ -1,9 +1,10 @@
-<figure>
-    <img src="_images/drone-peq.png">
+<figure class="top">
+	<img class="top" src="_images/drone-peq.png">
 </figure>
-
-<h1>Drone</h1>
-<h2>A revolução será sobrevoada</h2>
+<div>
+	<h1>Drone</h1>
+	<h2>A revolução será sobrevoada</h2>
+</div>
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -18,11 +19,11 @@
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-        <li><a href="especicacoes.php">Especificações</a></li>
-        <li><a href="#">Fotos</a></li>
-        <li><a href="#">Multimídia</a></li>
-        <li><a href="#">Fale conosco</a></li>
+        <li><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="especs.php">Especificações</a></li>
+        <li><a href="fotos.php">Fotos</a></li>
+        <li><a href="multimidia.php">Multimídia</a></li>
+        <li><a href="fale-conosco.php">Fale conosco</a></li>
       </ul>
     </div>
   </div>

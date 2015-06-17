@@ -1,0 +1,67 @@
+section{
+    padding-left: 10px;
+    padding-right: 10;
+}
+
+h1 {
+    padding-0px;
+    margin-bottom: 0px;
+    font-family: FonteLogo;
+    font-size: 30pt;
+    color: #606060
+}
+
+h2{
+    padding: 0px
+    margin-top: 0px;
+    font-family: TitilliumWeb;
+    font-size: 15pt;
+    color: #888888;
+}
+
+figure.top {
+	position:absolute;
+}
+
+figure.top img{
+	width: 50%;
+	float: right;
+}
+
+aside.left{
+	width: 70%;
+	text-align: justify;
+	border-left: 1px;
+	word-wrap: break-word;
+    float: left;
+    border-right: 1px solid;
+}
+
+aside.right{
+	width: 29%;
+	text-align: justify;
+	border-left: 1px;
+	word-wrap: break-word;
+    float: right;
+}
+footer{
+    margin-top: 30px;
+    align-content: center;
+    padding-top: 30px;
+    float: left;
+    text-align: center;
+    width: 100%;
+    border-top: 1px solid;
+}
+
+video{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    padding: 5px;
+}
+
