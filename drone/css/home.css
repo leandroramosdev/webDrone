@@ -1,59 +1,64 @@
-aside{
+section{
+    padding-left: 10px;
+    padding-right: 10;
+}
+
+h1 {
+    padding-0px;
+    margin-bottom: 0px;
+    font-family: FonteLogo;
+    font-size: 30pt;
+    color: #606060
+}
+
+H2{
+    padding: 0px
+    margin-top: 0px;
+    font-family: TitilliumWeb;
+    font-size: 15pt;
+    color: #888888;
+}
+
+aside.left{
 	width: 70%;
 	text-align: justify;
 	border-left: 1px;
 	word-wrap: break-word;
+    float: left;
+    border-right: 1px solid;
 }
 
-#wrapper {
-  padding-right: 250px;
-  transition: all 0.4s ease 0s;
+aside.right{
+	width: 29%;
+	text-align: justify;
+	border-left: 1px;
+	word-wrap: break-word;
+    float: right;
+}
+footer{
+    margin-top: 30px;
+    align-content: center;
+    padding-top: 30px;
+    float: left;
+    text-align: center;
+    width: 100%;
+    border-top: 1px solid;
 }
 
-#sidebar-wrapper {
-  margin-left: -250px;
-  left: 250px;
-  width: 250px;
-  background: #000;
-  position: fixed;
-  height: 100%;
-  overflow-y: auto;
-  z-index: 1000;
-  transition: all 0.4s ease 0s;
+video{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#page-content-wrapper {
-  width: 100%;
+article figure img{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.sidebar-nav {
-  position: absolute;
-  top: 0;
-  width: 250px;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-@media (max-width:767px) {
-
-    #wrapper {
-      padding-left: 0;
-    }
-
-    #sidebar-wrapper {
-      left: 0;
-    }
-
-    #wrapper.active {
-      position: relative;
-      left: 250px;
-    }
-
-    #wrapper.active #sidebar-wrapper {
-      left: 250px;
-      width: 250px;
-      transition: all 0.4s ease 0s;
-    }
-
+p{
+    padding: 5px;
 }
