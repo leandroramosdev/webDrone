@@ -50,6 +50,9 @@
    <div class="jumbotron">
   	<h2>Outras Noticias</h2>
  	 <p></p>
+       <video width="400" controls>
+	       <source src="_media/home.mp4" type="video/mp4">
+	   </video>
 	</div>
 </aside>        
 

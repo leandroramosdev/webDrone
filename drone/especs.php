@@ -23,6 +23,19 @@
 				<p>
 					Clique em qualquer área destacada da imagem para ter mais informações sobre os recursos deste Drone. Qualquer ponto vermelho vai te levar a um lugar cheio de novas informações.
 				</p>
+                
+                <imgsrc="_images/drone-specs.jpg" usemap="#meumapa" style="width: 50%;" usemap="meumapa"/>
+                <mapname="meumapa">
+                    <areashape="poly" coords="403,204,489,225,456,307,370,277“
+                    href="drone.html#controle" target="janela" />
+                    <areashape="circle" coords="218,180,17“
+                    href="drone.html#camera" target="janela" />
+                    <areashape="poly" coords="193,13,235,13,231,98,195,98“
+                    href="drone.html#aero" target="janela" />
+                    <areashape="rect" coords="45,141,78,170“
+                    href="drone.html#video" target="janela" />
+                </map>
+                <iframesrc="drone.html" name="janela" id="frame-spec"></iframe>
 				
 				<figure class="specs_image">
 		    		<img src="_images/drone-specs.jpg">
