@@ -13,8 +13,13 @@
 	        <?php include "header.php"; ?>
 	        <ul class="breadcrumb">
 		  		<li><a class="active" href="#">Drone</a></li>
-		  		<li><a href="#">Especificações</a></li>
+		  		<li><a href="#">Fotos</a></li>
 			</ul>
+            <article>
+                <p>
+                    Veja na nossa galeria de fotos belas imagens. Basta passar o mouse sobre uma das fotos para ver uma                     versão ampliada e com uma breve descrição.
+                </p>
+            </article>
 			
 			<?php include "carousel.php"; ?>
 			

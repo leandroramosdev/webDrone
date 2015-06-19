@@ -49,7 +49,7 @@
 <aside class="right">
    <div class="jumbotron">
   	<h2>Outras Noticias</h2>
- 	 <p></p>
+ 	 <p>O Inspire 1 é o novo quadricóptero da DJI capaz de capturar video em 4K e transmitir as imagens em tempo real em qualidade HD para diversos dispositivos. Com seu design “transformer" câmera 4k integrada com estabilizador e uma versão avançada do sistema lightbridge de downlink de video HD a tecnologia mais avançada da DJI é reunida em um único aparelho, Inspire 1, um drone criado para ser fácil de usar que lhe permite criar o inesquecível.</p>
        <video width="400" controls>
 	       <source src="_media/home.mp4" type="video/mp4">
 	   </video>

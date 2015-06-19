@@ -65,3 +65,15 @@ p{
     padding: 5px;
 }
 
+
+.jumbotron p {
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.jumbotron h2 {
+    background-color: #989993;
+    color: #ffffff;
+    padding-left: 10px;
+}

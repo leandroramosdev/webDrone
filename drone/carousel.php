@@ -9,21 +9,21 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="http://placehold.it/1200x315" alt="...">
+      <img src="_images/drone-monitoramento.png" alt="...">
       <div class="carousel-caption">
-          <h3>Caption Text</h3>
+          <h3>Drone Monitoramento</h3>
       </div>
     </div>
     <div class="item">
-      <img src="http://placehold.it/1200x315" alt="...">
+      <img src="_images/drone-delivery.png">
       <div class="carousel-caption">
-          <h3>Caption Text</h3>
+          <h3>Drone Delivery</h3>
       </div>
     </div>
     <div class="item">
-      <img src="http://placehold.it/1200x315" alt="...">
+      <img src="_images/drone-diversao.png">
       <div class="carousel-caption">
-          <h3>Caption Text</h3>
+          <h3>Drone Diversão</h3>
       </div>
     </div>
   </div>
