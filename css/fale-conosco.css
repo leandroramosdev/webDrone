@@ -1,0 +1,10 @@
+form {
+    padding: 15px;
+}
+
+form fieldset {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
